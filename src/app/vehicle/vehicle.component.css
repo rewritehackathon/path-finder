@@ -1,0 +1,18 @@
+.container1{
+    padding:0;
+    margin:0;
+    display:flex;
+    flex-direction: column;
+}
+
+.sectionTitle{
+    margin-left:49px;
+    margin-top:13px;
+    height: 30px;	
+    width: 463px;	
+    color: #026D9E;	
+    font-family: "Slate Pro";	
+    font-size: 20px;	
+    line-height: 30px;
+
+}
